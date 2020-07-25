@@ -14,8 +14,8 @@ Here are my projects.
     <li class="listing-separator">{{ y }}</li>
   {% endif %}
   <li class="listing-item">
-    <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ project.date | date:"%Y-%m-%d" }}</time>
-    <a href="{{ post.url }}" title="{{ post.title }}">{{ project.title }}</a>
+    <time datetime="{{ project.date | date:"%Y-%m-%d" }}">{{ project.date | date:"%Y-%m-%d" }}</time>
+    <a href="{{ project.url }}" title="{{ project.title }}">{{ project.title }}</a>
   </li>
 {% endfor %}
 </ul>
