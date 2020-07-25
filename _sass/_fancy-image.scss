@@ -14,6 +14,7 @@ border: 1px dotted $forest-green;
 	font-size: .9em;
 	padding: 2px 8px 3px 8px;
 	margin: 1px 0 0 0;
+
 }
 
 .wp-caption dt {
@@ -46,4 +47,13 @@ border: 1px dotted $forest-green;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+}
+@media all and (max-width: 600px) {
+	.alignright {
+		display: block;
+  		margin-left: auto;
+  		margin-right: auto;
+  		z-index: 1;
+		float: none;
+	}
 }
