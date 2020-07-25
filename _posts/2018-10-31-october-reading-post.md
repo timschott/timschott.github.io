@@ -1,7 +1,8 @@
 ---
-title:  "Reading Log"
+title:  Jackson, Nietzsche... And That's Really It
 date:   2018-10-31
 layout: post
+categories: reading-log
 ---
 
 ## Tim Hits The Books

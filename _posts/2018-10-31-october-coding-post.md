@@ -1,8 +1,8 @@
 ---
-title:  "Coding Post"
+title:  Building a Database with Python and SQLite
 date:   2018-10-31
 layout: post
-categorie: programming
+categories: programming
 ---
 
 ## A Database Is Born

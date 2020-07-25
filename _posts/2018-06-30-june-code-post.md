@@ -1,11 +1,11 @@
 ---
-title:  "Coding Log"
+title:  How My (Erstwhile) Blog Came to Be
 date:   2018-06-30
 layout: post
 categories: programming
 ---
 
-## Or,How My Thesis Website (RIP) came to be
+## Forays into Jekyll.
 
 Truth be told I didn't carry out any nifty "DH" coding this month -- the kind of programmatic work that will serve as the a central pole in the (still fuzzy) project plan of mine. This is intentional on my part. For one, after a third-year at school filled with tedious programming assignments in a dizzying array of languages (`C`, `HCLRS`, `Java`, `Python`), I felt like not firing up Sublime more than I had to this month.
 

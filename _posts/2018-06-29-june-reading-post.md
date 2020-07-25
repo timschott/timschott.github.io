@@ -1,11 +1,11 @@
 ---
-title:  "Reading Log"
+title:  A Productive Summer
 date:   2018-06-29
 layout: post
 categories: reading-log
 ---
 
-## Tim's Attempt to Have a Productive Summer
+## No, Really!
 
 *	*Adam Greenfield, [Radical Technologies](https://www.versobooks.com/books/2742-radical-technologies)*
 	This work overviews emerging tech through a politically-conscious perspective. Greenfield leans left -- this is Verso after all -- so there are no shortage of clever references and connections to other spaces in academia, to be certain. He takes care to explain in great detail complex concepts such as automation and The Internet of Things. The clearest understanding of the Blockchain I've come across. A nice way to frame my state of mind before applying the tenants of another emerging technology: digital literary methods.

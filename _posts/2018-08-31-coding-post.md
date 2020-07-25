@@ -1,8 +1,8 @@
 ---
-title:  "Coding Log"
+title:  Summary of Internship (plus, Excuses)
 date:   2018-08-30
 layout: post
-category: programming
+categories: programming
 ---
 
 ## Or, I Built That!

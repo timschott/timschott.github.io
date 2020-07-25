@@ -1,8 +1,8 @@
 ---
-title:  "Reading Log"
+title:  When I First Started to Notice Lyrical Everywhere
 date:   2018-07-30
 layout: post
-category: reading-log
+categories: reading-log
 ---
 
 ## *Markdown* But Not Out..

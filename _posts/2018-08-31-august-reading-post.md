@@ -1,7 +1,8 @@
 ---
-title:  "Reading Log"
+title:  A Mix of Theory and Fiction
 date:   2018-08-31
 layout: post
+categories: reading-log
 ---
 
 ## What's My Year Again?
