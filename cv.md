@@ -4,8 +4,39 @@ title: CV
 permalink: /cv/
 ---
 
-I embed a current version of my CV below. You can also [download the PDF here](https://www.dropbox.com/s/30ah9tgxevj1vl9/svm-cv.pdf).
+### Contact
 
-{% include embedpdf.html code="30ah9tgxevj1vl9/svm-cv.pdf" width=100 height=800 %}
+*   Software Engineer, Brightspot
+*   12120 Sunset Hills Road, Sixth Floor, Reston, Virginia 20190
+*   timcschott@gmail.com
 
+### Education
 
+*	B.A. in Computer Science, B.A. in English  (*with High Distinction*), University of Virginia (May 2019)
+
+### Professional Experience
+
+*	Software Engineer, Brightspot (July 2019 - Present).
+	*	Back-end Java development, MySQL migrations and REST API integrations.
+	*	Customzing ecommerce publishing and maintenance for MattressFirm (Current client).
+	*	Developed new website and CMS for The Chronicle of Higher Education (First client).
+
+*	Software Engineer Intern, Brightspot (Summer 2018).
+	*	Back-end Java Development.
+	*	Developed REST API for CoStar Group.
+
+*	Software Engineer Intern, Attain (Summer 2017).
+	*	Full-stack web development.
+	*	Created Intranet using Vue.JS and Node.
+
+### Conference presentations
+
+*   "‘Reading DT Leaves’: A Digital Analysis of ‘Lyrical’ Fiction." 2019 Chicago Colloquium on Digital Humanities and Computer Science (DHCS). Chicago. 2019.
+
+### Honors and awards
+
+*   Michael Waggenheim Memorial Scholarship, University of Virginia Department of English. 2018.
+*	Eagle Scout, Boy Scouts of America. 2012. 
+
+### Press coverage
+*	"[Build a Poem, Build a Movement](https://news.virginia.edu/content/build-poem-build-movement-its-all-part-humanities-week?utm_source=DailyReport&utm_medium=email&utm_campaign=news)". UVa Today. 2018.
