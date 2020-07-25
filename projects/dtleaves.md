@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reading DT Leaves - A Digital Analysis of "Lyrical" Novels.
-permalink: /projects/dtleaves/
+permalink: /projects/dtleaves
 date: 2019-04-14
 ---
 

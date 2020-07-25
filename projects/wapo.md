@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wapo
-permalink: /projects/wapo/
+permalink: /projects/wapo
 date: 2020-04-03
 ---
 

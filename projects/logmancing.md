@@ -1,7 +1,7 @@
 ---
 layout: page
 title: logomancing
-permalink: /projects/logomancing/
+permalink: /projects/logomancing
 date: 2020-01-15
 ---
 

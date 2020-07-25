@@ -1,7 +1,7 @@
 ---
 layout: page
 title: sBOTus
-permalink: /projects/sbotus/
+permalink: /projects/sbotus
 date: 2020-08-05
 ---
 
