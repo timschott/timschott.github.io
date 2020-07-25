@@ -1,8 +1,0 @@
----
-layout: page
-title: Tim Schott
-tagline: development portfolio
-description: Welcome to my new site!
----
-
-I'm switching this domain from its original purpose as a landing page and blog for my undergraduate thesis to a space for me to document and showcase the work I've carried out over the past few years. You'll find forays into text-mining, automated supreme court opinions, thoughts on critical theory and just about everything else here.

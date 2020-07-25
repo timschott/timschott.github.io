@@ -1,0 +1,20 @@
+- title: "About"
+  href: "/about/"
+
+- title: "Blog"
+  href: "/blog/"
+
+- title: "CV"
+  href: "/cv/"
+
+- title: "Projects"
+  href: "/projects/"
+  subcategories:
+    - subtitle: "Logomancing"
+      subhref: "/projects/logomancing"
+    - subtitle: "Reading DT Leaves"
+      subhref: "projects/dtleaves"
+    - subtitle: "sBOTus"
+      subhref: "/projects/sbotus"
+    - subtitle: "Washington Bezos"
+      subhref: "/projects/wapo"
