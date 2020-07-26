@@ -18,7 +18,7 @@ permalink: /projects/
     <p> a dictionary website developed with Node and MongoDB. | Winter 2020</p>
 </li>
 <li class="listing-item">
-    <a href="/projects/dtleaves" title="dtleaves">My Undergraduate Honors Thesis</a>
+    <a href="/projects/dtleaves" title="dtleaves">UVa Honors Thesis</a>
     <p><i>Reading DT Leaves: A Digital Analysis of the Lyrical Novel</i> | Summer 2018 - Spring 2019</p>
 </li>
 </ul>

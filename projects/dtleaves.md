@@ -3,6 +3,7 @@ layout: page
 title: Reading DT Leaves - A Digital Analysis of "Lyrical" Novels.
 permalink: /projects/dtleaves
 date: 2019-04-14
+plaindate: Summer 2018 - April 2019
 ---
 
 My honors thesis for the University of Virginia Distinguished Majors program consisted of a digital study of "lyrical" novels in order to better define this heretofore amorphous, nebulous term. (Editor's Note: You can read about the month to month work of my thesis over on the [blog](/blog). and view the completed project [right here](/blog/2019-04-12-thesis-is-done.md))
@@ -15,7 +16,7 @@ From there I created a feature set of 31 potential markers of “lyrical” nove
 
 <img src="/images/data_points_4.png" alt="31 features across a subset of lyrical works">
 
-My idea was to work with my large feature set and use a combination of supervised learning and close-reading to determine the most consequential. I utilized SVM's along with Decision-Trees and followed up these computational techniques with close-to-the-ground literary study. At one point in my project I stepped away from the computer entirely and spent the week poring over *Moby Dick* -- and who wouldn't? I don't need an R subroutine to tell me that sequences such as this are, without a doubt, *lyrical*.
+My idea was to work with my large feature set and use a combination of supervised learning and close-reading to determine the most consequential. I utilized SVM's along with Decision-Trees and followed up these computational techniques with close-to-the-ground literary study. At one point in my project I stepped away from the computer entirely and spent the week poring over *Moby Dick* -- and who wouldn't? I don't need an R subroutine to tell me that sequences such as this are, without a doubt, *lyrical*:
 
 >“Is it not curious, that so vast a being as the whale should see the world through 
 > so small an eye, and hear the thunder through an ear which is smaller than a 
@@ -23,6 +24,7 @@ My idea was to work with my large feature set and use a combination of supervise
 > his ears capacious as the porches of cathedrals; would that make him any longer of
 > sight, or sharper of hearing? Not at all.—Why then do you try to "enlarge" your 
 > mind? Subtilize it”
+
 
 Of course I did spend quite a lot of time at my computer during the project; I generated some very interesting visualizations during the project like this graph of syllabic variety across an internal monologue from Quentin Compson in Faulkner's *As I Lay Dying*.
 

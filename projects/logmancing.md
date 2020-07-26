@@ -3,6 +3,7 @@ layout: page
 title: logomancing
 permalink: /projects/logomancing
 date: 2020-01-15
+plaindate: Winter 2020
 ---
 
 <img src="/images/logomancing.png" alt="website screenshot" display:block>
