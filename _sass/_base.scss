@@ -87,6 +87,21 @@ li {
         height: 50%;
         widith: 50%;
 }
+#disco-tim {
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 15px;
+    height: 25%;
+    width: 25%;
+    @include media-query($on-palm) {
+            float: none;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            height: 60%;
+            width: 60%;
+    }
+}
 
 
 /**

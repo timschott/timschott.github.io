@@ -13,9 +13,8 @@
 
 .site-title {
     font-size: 28px;
-/* 		margin-top: 15px;
-    line-height: 40px; */
-    letter-spacing: -1px;
+    line-height: 40px;
+    letter-spacing: -1.5px;
     margin-bottom: 0;
     float: left;
     font-weight: 500;
@@ -97,8 +96,6 @@ color: #522d80;
 	z-index:2147483647;
 }
 .site-nav .sub-menu li.current-menu-item > a {
-	border-left-color: $clemson-orange;
-	border-right-color: $clemson-orange;
 	border-right: 0px;
 
 }
