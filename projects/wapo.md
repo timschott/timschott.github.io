@@ -1,16 +1,13 @@
 ---
 layout: page
-title: Wapo
+title: WashingtonBezos
 permalink: /projects/wapo
 date: 2020-04-03
 plaindate: Spring 2020
 ---
-
-Prior to reading further, I recommend a detour to [@WashingtonBezos](https://twitter.com/WashingtonBezos) for some hands on experience with what I built. 
-
 My bot tweets whenever *The Washington Post* uses a sentence such as "(Jeff Bezos owns the Washington Post)" in a news story. 
 
-Here is an example tweet:
+Here is one of its tweets:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">(Amazon CEO Jeff Bezos owns The Washington Post.) <a href="https://t.co/lobPfkTQm9">https://t.co/lobPfkTQm9</a></p>&mdash; Washington Bezos (@WashingtonBezos) <a href="https://twitter.com/WashingtonBezos/status/1281724955785388044?ref_src=twsrc%5Etfw">July 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 To ingest news data, I use the [newsapi](https://newsapi.org/). My process for ingesting article's is a bit roundabout; first I query the news api for any article's from *The Post* containing Bezos's name (they offer a powerful search library). However, they do not provide full article text in their api response; just a truncated version. But they return the URL for the article, which I subsequently run through a manual, [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) scraping routine that traverses the DOM and looks for the invocation and context of Bezos's name. 
