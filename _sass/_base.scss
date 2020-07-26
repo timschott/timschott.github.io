@@ -44,8 +44,17 @@ ul, ol, dl, figure,
 img {
     max-width: 100%;
     vertical-align: middle;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
-
+// override linked in image in the footer.
+#linked-in {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+}
 
 
 /**

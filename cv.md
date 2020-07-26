@@ -29,9 +29,10 @@ permalink: /cv/
 	*	Full-stack web development.
 	*	Created Intranet using Vue.JS and Node.
 
-### Conference presentations
+### Presentations
 
 *   "‘Reading DT Leaves’: A Digital Analysis of ‘Lyrical’ Fiction." 2019 Chicago Colloquium on Digital Humanities and Computer Science (DHCS). Chicago. 2019.
+*	Fabrikit. 2018 University Entrepreneurship Competition (Social Entrepreneurship). Charlottesville. 2018.
 
 ### Honors and awards
 
