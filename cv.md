@@ -29,6 +29,10 @@ permalink: /cv/
 	*	Full-stack web development.
 	*	Created Intranet using Vue.JS and Node.
 
+*	Research Assistant, Insitute for Advanced Technology in the Humanities (Fall 2016 - Spring 2019)
+	*	Digital analysis of Supreme Court opinions.
+	*	Performed topic modeling, sentiment analysis, POS-tagging, data-viz across 1000+ case corpus.
+
 ### Presentations
 
 *   "‘Reading DT Leaves’: A Digital Analysis of ‘Lyrical’ Fiction." 2019 Chicago Colloquium on Digital Humanities and Computer Science (DHCS). Chicago. 2019.
