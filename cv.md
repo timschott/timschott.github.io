@@ -31,7 +31,8 @@ permalink: /cv/
 
 *	Research Assistant, Insitute for Advanced Technology in the Humanities (Fall 2016 - Spring 2019)
 	*	Digital analysis of Supreme Court opinions.
-	*	Performed topic modeling, sentiment analysis, POS-tagging, data-viz across 1000+ case corpus.
+	*	Performed topic modeling, sentiment analysis, POS-tagging and data-viz.
+	*	Documented and catalouged quotations, key phrases and ideological patterns.
 
 ### Presentations
 
