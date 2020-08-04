@@ -8,7 +8,7 @@ plaindate: Summer 2018 - April 2019
 
 My honors thesis for the University of Virginia Distinguished Majors program consisted of a digital study of "lyrical" novels in order to better define this heretofore amorphous, nebulous term. I was graciously advised by [Brad Pasanek](https://english.as.virginia.edu/people/profile/bmp7e) and [Paul Cantor](https://english.as.virginia.edu/people/profile/pac2j). 
 
-(Editor's Note: You can read about the month to month work of my thesis over on the [blog](/blog). and view the completed project [right here](/blog/2019/04/thesis-is-done))
+(Editor's Note: You can read about the month to month work of my thesis over on the [blog](/blog), and view the completed paper [right here](/blog/2019/04/thesis-is-done)) and download my slide deck from my presentation of this thesis at 2019 Digital Humanities and Computer Science Colloquium [here](/documents/DHCS.pdf).
 
 I'll begin with the abstract. 
 >The class of novels referred to as “lyrical” by critics and readers deserves
