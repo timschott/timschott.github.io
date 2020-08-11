@@ -7,7 +7,7 @@ permalink: /projects/
 <ul class="listing">
 <li class="listing-item">
     <a href="/projects/sbotus" title="sbotus">sBOTus</a>
-    <p> artificially generating insights from the supreme court via gpt2 and the Oyez API. | Summer 2020</p>
+    <p> artificially generating insights from the supreme court via gpt-2 | Summer 2020</p>
 </li>
 <li class="listing-item">
     <a href="/projects/wapo" title="logomancing">@WashingtonBezos</a> 
