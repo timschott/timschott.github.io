@@ -12,7 +12,7 @@ During my time at UVa, I worked as a Research Assistant at [IATH](https://iath.v
 
 ### Corpus Description and Text Cleaning
 
-The files we used came from LexisNexis; I maintain local access to them. My corpus for this project consists of roughly 700 Supreme Court cases ranging from 1950 - 2005, all of which focus on First Amendment issues.
+The files we used came from LexisNexis; I maintain local access to them. My corpus for this project consists of roughly 700 Supreme Court cases ranging from 1950 - 2005. The cases are a subset of the court's total output focusing on First Amendment issues. 
 
 Prior to processing these files through a transformer model, I needed to greatly clean the texts. These files contained numerous artifacts specific to SCOTUS opinions like citations, docket-numbers: "boilerplate-legalese," if you will. Various functions in my [scotus.py](https://github.com/timschott/kratos/blob/master/scotus.py#L258) class handle the cleanup for these cases.
 
@@ -59,7 +59,7 @@ tim@tims-mbp sents (master) $ cat OCONNORsents.txt | head
 2. the court of reversed the conviction and ordered the charges dismissed on the ground that the magazines were improperly admitted in evidence
 3. the court of denied certiorari
 
-These lines make apparent some of the omissions from cleaning. For instance, I removed most proper nouns, like "California," quotes longer than three words, along with plenty of other characters... look at this [function](https://github.com/timschott/kratos/blob/master/scotus.py#L101) for the specifics.  
+These lines make apparent some of the omissions from cleaning. For instance, I removed most proper nouns, like "California," quotes longer than three words, along with plenty of other characters ... look at this [function](https://github.com/timschott/kratos/blob/master/scotus.py#L101) for the specifics.  
 
 To bolster this corpus, I incorporate the associated oral argument for each case. This is thanks to the easy to use [Oyez](https://www.oyez.org/) API; see here for [an example response](https://api.oyez.org/cases/1963/449) and [docs](https://github.com/walkerdb/supreme_court_transcripts#oyez-api). This adds depth to each of the justice's "portfolios."
 
@@ -171,11 +171,11 @@ Let's look at some of the samples my model generated. *Spoilers: even for a firs
 
 I set out with the goal of constructing a model for each justice. I wanted to create a "virtual" courtroom where each justice model could play off the other's output and start a cycle of arguments based on generated samples. Unfortunately, a few limitations of my dataset and the model made themselves apparent after I created my first model, `scalia_1`.
 
-Now, any observer of the court knows that Scalia is hardly restrained when it comes to broadcasting his thoughts. The king of quips, as it were. His dataset was approximately 15k lines strong, which I assumed would hold up well to gpt-2's behind-the-scenes machinations. However, a great deal of Scalia's output stems from oral arguments. Roughly a third of his sentences originate in written opinions with the remaining two-thirds stemming from his inquisitive, borderline quizzical contributions to oral arguments. 
+Now, any observer of the court knows that Scalia is hardly restrained when it comes to broadcasting his thoughts. [The king of quips](https://www.nationalreview.com/2016/02/antonin-scalia-originality-wit/), or ["a twitter egg,"](https://gawker.com/scalia-is-a-twitter-egg-1714198342) depending on where you fall along the ideological spectrum. His dataset contained approximately 15k sentences, one of the most robust across all the justices. I hoped a set of this size would fraternize nicely with gpt-2's behind-the-scenes machinations. 
 
-The context of these two situations matters a great deal during an unsupervised learning exercise such as this. gpt-2, as well as its next-gen follow-up, are bonafide memorization machines, churning through Wikipedia article, Reddit posts, etc. with aplomb. And the relative stability of those mediums serves as a boon for the learning task. The stylistic and rhetorical difference between a written Supreme Court opinion and its corresponding oral argument, in my view, pose a problem for the learning task. By way of example, let's inspect two of Scalia's contributions to the record. 
+However, looking more closely into the data, a great deal of Scalia's sentences stem from oral arguments. Indeed, roughly a third of his sentences originate in written opinions with the remaining two-thirds attributed to oral arguments. The divergent context of these two situations matters a great deal during an unsupervised learning exercise such as this. gpt-2, as well as its next-gen follow-up, are bonafide memorization machines, churning through Wikipedia article, Reddit posts, etc. with aplomb. And the relative stability of those respective mediums serves as a boon for the learning task. The stylistic and rhetorical difference between a written Supreme Court opinion and its corresponding oral argument, in my view, pose a problem for the learning task. By way of example, let's inspect two of Scalia's contributions to the record. 
 
-Here he is, 
+Here he is in *Federal Election Commission v. Akins*, [524 U.S. 11 (1998)](https://api.oyez.org/cases/1997/96-1590), a case litigating whether an individual could sue for a violation of federal law in regards to a statute enacted by Congress:
 
 >524.US.11_50 19980601 And finally, a narrower reading of "party aggrieved'' is supported by 
 >the doctrine of constitutional doubt, which counsels us to interpret statutes, if possible, in 
@@ -187,9 +187,29 @@ Here he is,
 >if  one disagrees with that judgment, however, it is clear from Richardson that the question 
 >is a close one, so that the statute  ought not be interpreted to present it. 
 
+Scalia's opinion incorporates citations, motions towards forthcoming discussions ("As I proceed to discuss") and contains transition words ("And finally,"). We come to expect these elements appearing in an opinion. 
 
+The back-and-forth style of the oral arguments presents a different rhetorical terrain for the justices. Their interolocutions with counsels from the plaintiffs and defendants are a chance for the justices to learn more about specific elements of an argument and gain depth on a case's context. This does not square with the content of their actual opinions, which synthesize their knowledge of a case's background and the rights set forth in the Constitution and the various ruling in the court's history. 
 
+By way of example, let's contrast that opinion block some of Scalia's contributions to the [oral arguments](https://api.oyez.org/case_media/oral_argument_audio/20166) of *FEC v. Atkins*.
 
+>"To vindicate the right to the information."
+>"Which everyone has."
+>"We want a statement."
+>"It's all buried under the Defense Department or other agencies."
+
+The oral arguments are an expository exercise. They don't typically unearth new ground about the rights of Americans and the Constitution's implications and scope. They serve as an opportunity for justices to learn more about the case's subject matter from the parties involved. Also, like any conversation among a large group of people the flow is frequently interrupted, repeated, etc. So we see lots of oral argument sentences containing dashes to represent interruptions:
+
+>"--we have a right to this... a statute is more important than the Constitution?"
+>"--No."
+
+If the point of collecting this data is to train an advanced learning model on the nature and implications of the Constitution's free speech provisions, sentences such as these are hardly revelatory. I need to adjust my strategy. 
+
+### Remedies
+
+There are a few different ways to combat my model's unsatisfactory output. The first option would be to simply gather more data overall -- cases and oral arguments -- beyond my 700 case subset. However, that's a non-trivial task. The best way to go about it would be running the DOM from oyez.org through BeautifulSoup, scraping out all the text, determining the justice that's speaking, etc. The [formatting](https://supreme.justia.com/cases/federal/us/418/683/#tab-opinion) of their opinion's does not lend itself well to this type of work. 
+
+Rather than pursue additional data, I'm opting to leverage my existing corpus in a different way.
 
 
 
