@@ -194,13 +194,17 @@ The back-and-forth style of the oral arguments presents a different rhetorical t
 By way of example, let's contrast that opinion block some of Scalia's contributions to the [oral arguments](https://api.oyez.org/case_media/oral_argument_audio/20166) of *FEC v. Atkins*.
 
 >"To vindicate the right to the information."
+
 >"Which everyone has."
+
 >"We want a statement."
+
 >"It's all buried under the Defense Department or other agencies."
 
 The oral arguments are an expository exercise. They don't typically unearth new ground about the rights of Americans and the Constitution's implications and scope. They serve as an opportunity for justices to learn more about the case's subject matter from the parties involved. Also, like any conversation among a large group of people the flow is frequently interrupted, repeated, etc. So we see lots of oral argument sentences containing dashes to represent interruptions:
 
 >"--we have a right to this... a statute is more important than the Constitution?"
+
 >"--No."
 
 If the point of collecting this data is to train an advanced learning model on the nature and implications of the Constitution's free speech provisions, sentences such as these are hardly revelatory. I need to adjust my strategy. 
