@@ -155,17 +155,23 @@ From here we can generate text samples. It's a pretty similar command to creatin
 
 Let's look at some of the samples my model generated. *Spoilers: even for a first attempt, they are quite shabby...*
 
->======================================== SAMPLE 4 ========================================
 >the other one of the cases that give a straight out answer to that you ten pieces of research
->the first amendment seems to me, that what he said is what you said
->that what you said
->you said the by word "know, which says you cannot stop it up to the word used for it
->and the same word "knowingly" says "germane" is misleading to say, the same statement is
->misleading to say, the word "knowingly" says "germane" you are urging upon us to say that the 
->person is not having a grand jury, that that the grand jury, whether it would not be 
->reasonable to have the grand jury, that the grand jury below, but let you pay the jury below 
->some other jury, that is very clear that the grand jury was going to say that the grand jury be
 
+>the first amendment seems to me, that what he said is what you said
+
+>that what you said
+
+>you said the by word "know, which says you cannot stop it up to the word used for it
+
+>and the same word "knowingly" says "germane" is misleading to say, the same statement is
+
+>misleading to say, the word "knowingly" says "germane" you are urging upon us to say that the 
+
+>person is not having a grand jury, that that the grand jury, whether it would not be 
+
+>reasonable to have the grand jury, that the grand jury below, but let you pay the jury below 
+
+>some other jury, that is very clear that the grand jury was going to say that the grand jury be
 
 ### Initial Impressions
 
