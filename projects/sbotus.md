@@ -285,6 +285,7 @@ I think this is one of the best summations of the issue the court faces when app
 
 >sample 27: we therefore have the power to force the government to probe into 
 >political beliefs, and in order to monitor and criticize the conduct of the people
+
 I leave you with a sentiment familiar to those who grew up in the COINTELPRO days ...
 
 My next effort is to use the conditional generation script to create a call-and-response output with my all-justics model. 
