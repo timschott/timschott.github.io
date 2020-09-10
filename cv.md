@@ -12,7 +12,7 @@ permalink: /cv/
 
 ### Education
 
-*	B.A. in Computer Science, B.A. in English  (*with High Distinction*), University of Virginia (May 2019)
+*	B.A. in Computer Science, B.A. in English  (*with High Distinction*), University of Virginia (May 2019), 3.56 GPA
 
 ### Professional Experience
 
