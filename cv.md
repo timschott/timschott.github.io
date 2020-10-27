@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-permalink: /cv
+permalink: /cv/
 ---
 
 <embed src="https://timschott.com/documents/Timothy_Schott_Resume_.pdf" type="application/pdf"
