@@ -22,5 +22,5 @@ permalink: /video
 <p id ="poem-para"><i>Difficulty, he wasn’t one to shirk.</i></p>
 <p id ="poem-para"><i>Creating a hub to augment the mind,</i></p>
 <p id ="poem-para"><i>said he, "My Heart is in the Work.”</i></p>
-<p id ="poem-para"><i>It’s electric, knowing just what I want:</i></p>
+<p id ="poem-para"><i>It’s electric, knowing just what I crave:</i></p>
 <p id ="poem-para"><i>I hope that you accept Tim from VA</i></p>
