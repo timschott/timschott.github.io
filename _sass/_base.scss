@@ -36,6 +36,14 @@ ul, ol, dl, figure,
     margin-bottom: $spacing-unit / 2;
 }
 
+/**
+* Poem Para
+*/
+#poem-para {
+   margin-bottom: $spacing-unit / 3;
+   text-align: center;
+}
+
 
 
 /**
@@ -65,7 +73,6 @@ video {
     height: 16px;
     vertical-align: middle;
 }
-
 
 /**
  * Figures
