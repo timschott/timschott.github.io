@@ -71,8 +71,8 @@ video {
 #special-video {
     @include media-query($on-palm) {
             float: none;
-            height: 60%;
-            width: 60%;
+            height: 90%;
+            width: 90%;
     }
 }
 // override linked in image in the footer.
