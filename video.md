@@ -10,20 +10,20 @@ permalink: /video
 
 <br>
 
-<p id ="poem-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-<p id ="poem-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-<p id ="poem-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-<p id ="poem-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+<p id ="poem-para"><i>Lorem ipsum dolor sit amet, consectetur adipiscing elit</i></p>
+<p id ="poem-para"><i>Lorem ipsum dolor sit amet, consectetur adipiscing elit</i></p>
+<p id ="poem-para"><i>Lorem ipsum dolor sit amet, consectetur adipiscing elit</i></p>
+<p id ="poem-para"><i>Lorem ipsum dolor sit amet, consectetur adipiscing elit</i></p>
 <br>
-<p id ="poem-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-<p id ="poem-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-<p id ="poem-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-<p id ="poem-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+<p id ="poem-para"><i>Lorem ipsum dolor sit amet, consectetur adipiscing elit</i></p>
+<p id ="poem-para"><i>Lorem ipsum dolor sit amet, consectetur adipiscing elit</i></p>
+<p id ="poem-para"><i>Lorem ipsum dolor sit amet, consectetur adipiscing elit</i></p>
+<p id ="poem-para"><i>Lorem ipsum dolor sit amet, consectetur adipiscing elit</i></p>
 <br>
-<p id ="poem-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-<p id ="poem-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-<p id ="poem-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-<p id ="poem-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+<p id ="poem-para"><i>Lorem ipsum dolor sit amet, consectetur adipiscing elit</i></p>
+<p id ="poem-para"><i>Lorem ipsum dolor sit amet, consectetur adipiscing elit</i></p>
+<p id ="poem-para"><i>Lorem ipsum dolor sit amet, consectetur adipiscing elit</i></p>
+<p id ="poem-para"><i>Lorem ipsum dolor sit amet, consectetur adipiscing elit</i></p>
 <br>
-<p id ="poem-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-<p id ="poem-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+<p id ="poem-para"><i>Lorem ipsum dolor sit amet, consectetur adipiscing elit</i></p>
+<p id ="poem-para"><i>Lorem ipsum dolor sit amet, consectetur adipiscing elit</i></p>
