@@ -4,6 +4,6 @@ title: Video
 permalink: /video
 ---
 
-<video width="640" height="320">
-	<source src="/images/opn.mp4" type="video/mp4">
+<video controls autoplay name="media">
+	<source src="https://timschott.com//images/opn.mp4" type="video/mp4">
 </video>
