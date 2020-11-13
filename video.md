@@ -4,7 +4,7 @@ title: CMU Video
 permalink: /video
 ---
 
-<video id="special-video" width="320" height="240" controls autoplay name="media">
+<video id="special-video" controls autoplay name="media">
 	<source src="https://timschott.com/images/opn.mp4" type="video/mp4">
 </video>
 
