@@ -65,15 +65,14 @@ video {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    height: 80%;
+    width: 80%;
 }
 #special-video {
     @include media-query($on-palm) {
             float: none;
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-            height: 75%;
-            width: 75%;
+            height: 60%;
+            width: 60%;
     }
 }
 // override linked in image in the footer.
