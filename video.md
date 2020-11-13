@@ -11,19 +11,19 @@ permalink: /video
 <br>
 
 <p id ="poem-para">A bookworm, moonlighting as a programmer</p>
-<p id ="poem-para"><em>er — maybe I should flip that line around?</p>
+<p id ="poem-para">&mdash; er &mdash; maybe I should flip that line around?</p>
 <p id ="poem-para">I seek new challenges, a new grammar,</p>
 <p id ="poem-para">and variegated thrills offered by a new town.</p>
 <br>
-<p>A bookworm, moonlighting as a programmer</p>
-<p>—er — maybe I should flip that line around?</p>
-<p>I seek new challenges, a new grammar,</p>
-<p>and variegated thrills offered by a new town.</p>
+<p id ="poem-para">A bookworm, moonlighting as a programmer</p>
+<p id ="poem-para">&mdash; er &mdash; maybe I should flip that line around?</p>
+<p id ="poem-para">I seek new challenges, a new grammar,</p>
+<p id ="poem-para">and variegated thrills offered by a new town.</p>
 <br>
-<p>A bookworm, moonlighting as a programmer</p>
-<p>—er — maybe I should flip that line around?</p>
-<p>I seek new challenges, a new grammar,</p>
-<p>and variegated thrills offered by a new town.</p>
+<p id ="poem-para">A bookworm, moonlighting as a programmer</p>
+<p id ="poem-para">&mdash; er &mdash; maybe I should flip that line around?</p>
+<p id ="poem-para">I seek new challenges, a new grammar,</p>
+<p id ="poem-para">and variegated thrills offered by a new town.</p>
 <br>
-<p>A bookworm, moonlighting as a programmer</p>
-<p>—er — maybe I should flip that line around?</p>
+<p id ="poem-para">A bookworm, moonlighting as a programmer</p>
+<p id ="poem-para">&mdash; er &mdash; maybe I should flip that line around?</p>
