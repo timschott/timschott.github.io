@@ -9,7 +9,7 @@ categories: programming
 
 June 23rd, 2020 will be remembered as landmark election day for the United State's Progressive movement. Democratic primary elections across all levels of government took place in in Kentucky, New York and Virginia, and the results present the best news for the American left since Bernie's 3-peat in the (now distant) 2020 presidential primary.
 
-I am focusing my attention on two candidates in particular. Jamaal Bowman is a middle school principle running for the House in New York's 16th Congressional District. Charles Booker serves as a state lawmaker in Kentucky and is vying to represent the Democrats in their (perhaps insurmountable) quest to unseat Mitch McConnell.
+I am focusing my attention on two candidates in particular. Jamaal Bowman is a middle school principal running for the House in New York's 16th Congressional District. Charles Booker serves as a state lawmaker in Kentucky and is vying to represent the Democrats in their (perhaps insurmountable) quest to unseat Mitch McConnell.
 
 Both men face steeps odds in their respective contests. Bowman matches up against Eliot Engel, a 30-year incumbent and the chairman of the powerful Foreign Affairs committee. Booker, meanwhile, competes with Amy McGrath, who in spite of not previously holding office finds herself with a juggernaut fundraising apparatus and preference from the Democratic national apparatus.
 
