@@ -22,5 +22,5 @@ permalink: /video
 <p id ="poem-para"><i>Difficulty, he wasn’t one to shirk.</i></p>
 <p id ="poem-para"><i>Creating a hub to augment the mind,</i></p>
 <p id ="poem-para"><i>said he, "My Heart is in the Work.”</i></p>
-<p id ="poem-para"><i>at the LTI, I'd reach my zenith</i></p>
+<p id ="poem-para"><i>At the LTI, I'd reach my zenith</i></p>
 <p id ="poem-para"><i>therefore, I hope you pick Tim, the Wordsmith</i></p>
