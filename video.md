@@ -5,8 +5,10 @@ permalink: /video
 ---
 
 <video id="special-video" controls autoplay name="media">
-	<source src="https://timschott.com/images/opn.mp4" type="video/mp4">
+	<source src="https://timschott.com/images/lti.mp4" type="video/mp4">
 </video>
+
+<p><i>(Note:</i> if video is not playing, I also put it on <a href="https://www.youtube.com/watch?v=TF9a2X-QJmA&feature=youtu.be&ab_channel=TimothySchott">YouTube).</a></p>
 
 <br>
 
