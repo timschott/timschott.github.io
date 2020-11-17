@@ -9,7 +9,7 @@ permalink: /video
 </video>
 
 <br>
-<p id = "poem-para-small"><i>(Note:</i> if video is not playing, I also put it on <a href="https://www.youtube.com/watch?v=TF9a2X-QJmA&feature=youtu.be&ab_channel=TimothySchott">YouTube).</a></p>
+<p id ="poem-para-small"><i>(Note:</i> if video is not playing, I also put it on <a href="https://www.youtube.com/watch?v=TF9a2X-QJmA&feature=youtu.be&ab_channel=TimothySchott">YouTube).</a></p>
 
 <br>
 
