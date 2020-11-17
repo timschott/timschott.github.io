@@ -42,9 +42,12 @@ ul, ol, dl, figure,
 /**
 * Poem Para
 */
-#poem-para {
+#poem-para, #poem-para-small {
    margin-bottom: $spacing-unit / 4;
    text-align: center;
+}
+#poem-para-small {
+    font-size: $small-font-size;
 }
 
 
