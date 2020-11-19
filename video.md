@@ -10,9 +10,6 @@ permalink: /video
 
 <br>
 <p id ="poem-para-small"><i>(Note:</i> if video is finicky on your device, I put a copy on <a href="https://www.youtube.com/watch?v=TF9a2X-QJmA&feature=youtu.be&ab_channel=TimothySchott">YouTube).</a></p>
-
-<br>
-
 <p id ="poem-para"><i>A bookworm, moonlighting as a programmer,</i></p>
 <p id ="poem-para"><i>er — maybe I should flip that line around?</i></p>
 <p id ="poem-para"><i>I seek new challenges, a new grammar,</i></p>
