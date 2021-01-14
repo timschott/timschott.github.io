@@ -13,6 +13,10 @@ categories: reading-log
 > 
 > &mdash; <cite>Don DeLillo</cite>
 
+## What's Here, and What's Coming
+
+Don Dellilo is the most underrated novelist of the 20th century. I don't care if he's received the National Book Award, or the PEN/Faulkner medal, or whatever other honorifics the academy has applied to him. 
+
 ## When It Started
 
 I first heard of Don DeLillo in an Introduction to Literary Criticism course taught by the imitable [Rita Felski](https://english.as.virginia.edu/felski). Professor Felski stated that *White Noise*, DeLillo's breakout novel published in 1985, remains one of her favorite novels. I took everything Professor Felski recommended to heart; her insight into literature and art more broadly is staggering. In fact, the conceit of my thesis -- focusing on one word, "lyrical" -- was heavily influenced by her collection of phenomenological essays, [Uses of Literature](https://www.wiley.com/en-us/Uses+of+Literature-p-9781405147231), in which Felski bridges the gap between the every day experience of reading and the critical planks that inhere books and our responses to them.
@@ -29,6 +33,12 @@ So where exactly does DeLillo fit into this constellation? He's never written a 
 
 Babette embroils herself in a tryst with a pharmaceutical salesman who pushes her to try "Dylar," a pill purporting to assuage death-terror. Jack, meanwhile, faces exposure to the chemical, and his mental state similarly deteriorates. Towards the work's close, he remarks to a colleague, "I'm just going through the motions of living. I'm technically dead." And in an aleatory society built upon exploitation and swindle, who isn't?
 
-Overall, reading *White Noise* left me disoriented. It's a challenging read, certainly, both in form and subject matter. At multiple points, I felt as if I had been teleported back to my "Freud and Literature" course, learning about the concept of the "death drive". DeLillo is eminently perspicacious. Almost to a fault. But he imbues a remarkable liquidity into his paragraphs. The descriptions of the vagaries of everyday life the shopping cart, the syndicated television program, the college curriculum -- drop the reader into an environment rife with stagnation, futility and charmlessness. There's a melancholy undergirding the entire work; life lacks coherence or direction. 
+Overall, reading *White Noise* left me disoriented. It's a challenging read, certainly, both in form and subject matter. At multiple points, I felt as if I had been teleported back to my "Freud and Literature" course, learning about the concept of the "death drive". DeLillo is eminently perspicacious. Almost to a fault. But he imbues a remarkable liquidity into his paragraphs. The descriptions of the vagaries of everyday life the shopping cart, the syndicated television program, the college curriculum -- drop the reader into an environment rife with stagnation, futility and charmlessness. A melancholy undergirds the entire work; life lacks coherence or direction. 
 
-*White Noise* is not why I'm enamored with DeLillo's ideas, characters and prose. I moved onto other books, other boring nights studying rote GRE math. It wasn't until later in the year that I reimmersed myself in DeLillo's writing when I picked up his debut novel, *Americana*.
+*White Noise*, then, is not why I'm enamored with DeLillo's ideas, characters and prose. I moved onto other books (for example all of April and May, it was my GRE math prep book). It wouldn't be until later in the year I fully immersed myself in DeLillo's writing
+
+Now, Thomas Pynchon is often brought up in any conversation about DeLillo. Even a cursory survey of the landscape -- such as examining syllabi, secondary criticism, etc. 
+
+
+
+
