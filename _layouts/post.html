@@ -14,6 +14,9 @@ layout: default
 {% endif %}
 </span>
 </p>
+  <meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% endif %}" />
+  <meta name="author" content="Tim Schott">
+  <meta name="keywords" content="NLP, UVA, Tim Schott, Software Engineering">
   </header>
 
   <article class="post-content">
