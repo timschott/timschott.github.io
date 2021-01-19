@@ -17,6 +17,9 @@ permalink: blog/:year/:month/:title
 job.title: "Software Engineer"
 excerpt_separator: "<!--more-->"
 
+plugins:
+  - jekyll-sitemap
+
 # SEO stuff
 # google_author: ""
 # google_site_verification: ""
