@@ -3,6 +3,7 @@ title:  Miklov. et Al - Distributed Representation Representations of Words and 
 date:   2020-02-11
 layout: post
 categories: reading-log
+description: Engaging with the paper that brought us word2vec.
 ---
 
 ### Abstract 

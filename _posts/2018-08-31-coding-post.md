@@ -3,13 +3,14 @@ title:  Summary of Internship (plus, Excuses)
 date:   2018-08-30
 layout: post
 categories: programming
+description: More descriptions of summary programming work. Light intro to DMP.
 ---
 
 ## Or, I Built That!
 
 I got a lot done this month. Did I build my magic machine learning infused lyrical classifer? Absolutely not. But I feel that the coding I did get around to as well as my triumphant return to Charlottesville will pay dividends for my project going forward. 
 
-For one, I finished my time as a development intern at Perfect Sense. The last couple weeks of my project were pretty hectic so I was able to get tons of endgame features and fixes pushed out before our launch date. It felt good to see lots of moving parts mesh into a solid final product. That work, again, was all carried out in Java, with sprinkles of SQL and CSS. The fundamental challenge of the CoStar project, designing an intuitve system to edit, process and present textual data is something near and dear to the hear of this endeavor, too.
+For one, I finished my time as a development intern at Perfect Sense. The last couple weeks of my project were pretty hectic so I was able to get tons of endgame features and fixes pushed out before our launch date. It felt good to see lots of moving parts mesh into a solid final product. That work, again, was all carried out in Java, with sprinkles of SQL and CSS. The fundamental challenge of the CoStar project, designing an intuitive system to edit, process and present textual data is something near and dear to the hear of this endeavor, too.
 
 In between that I was able to improve this site, too. I got images to work. They are now presented responsively through (pretty basic) HTML conditional rendering. This spruces up the experience of taking in a post or too a considerable amount. I will probably go back to the previous month's articles and add in a few pictures ad hoc. Next on my list -- really, I promise! -- is the loading bar. I cannot tell you how cool I think loading bars are! In my opinion loading bars, like this one from [HuffPost](https://www.huffingtonpost.com/entry/rudy-giuliani-fox-news-trump-tower_us_5b5f4400e4b0fd5c73d1d5f3) greatly enhance reading a digital article. 
 

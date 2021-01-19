@@ -3,6 +3,7 @@ title:  "How To Clean a Text"
 date:   2019-1-15
 layout: post
 categories: programming
+description: How to clean a digital text file.
 ---
 ## How to Clean a Text using R and a tiny amount of Python
 
@@ -12,7 +13,7 @@ This post explains how to break down digital .txt files into semantic units of i
 
 ### Why use this method instead of a prebuilt library?
 
-A grounding assumption in literary studies is that there is an artfulness and delicacy attached to each sentence of the works' of great authors such as Doctorow, Dickens and Zola. Their works are remembered because they beautifully command of *words* -- recall Flaubert's "mot juste" and the particular words and actions in Proust that elicit striking memories and emotions from readers -- in addition to complex plots and expertly crafted characters. I'm concerned with synactic relationships, frequencies, etc.; features that manifest themselves through the words utilized in a given text. Great authors "have a way with words" that comes to fruition in memorable sentences and paragraphs. So I don't think it would be right to only analyze a novel's words, isolated from their original context. Indeed, its pretty easy to just fire up the **`tm`** package, make a corpus, and run classifer X, Y, Z and optimize at will. This won't get me the results I'm really after, though. This is where my rough and tumble text scrubbing comes into play.
+A grounding assumption in literary studies is that there is an artfulness and delicacy attached to each sentence of the works' of great authors such as Doctorow, Dickens and Zola. Their works are remembered because they beautifully command of *words* -- recall Flaubert's "mot juste" and the particular words and actions in Proust that elicit striking memories and emotions from readers -- in addition to complex plots and expertly crafted characters. I'm concerned with syntactic relationships, frequencies, etc.; features that manifest themselves through the words utilized in a given text. Great authors "have a way with words" that comes to fruition in memorable sentences and paragraphs. So I don't think it would be right to only analyze a novel's words, isolated from their original context. Indeed, its pretty easy to just fire up the **`tm`** package, make a corpus, and run classifier X, Y, Z and optimize at will. This won't get me the results I'm really after, though. This is where my rough and tumble text scrubbing comes into play.
 
 If you're just trying to classify Amazon Reviews, this is probably too in-depth for what you need. But, if you're in the realm of lengthy texts that are tied together by rhetorical flourishes and sparks of creativity, you may want to consider supplanting the paradigmatic "bag-of-words" approach. (I'm definitely going to use that representation during classification, but I think having these various semantic units will help when I engineer features about my texts).
 
@@ -32,7 +33,7 @@ Subsetting does the trick.
 
 **```orlando<-orlando[orlando.start:orlando.end]```**
 
-After this, **`orlando`** is a vector containing each line (literally, each line exactly as it appears) of your text file, in my case, Woolf's *Orlando*. This can be surprising the first time you inspect your vector since it obviously does not connect multiline sentences. More on that later.
+After this, **`orlando`** is a vector containing each line (literally, each line exactly as it appears) of your text file, in my case, Woolf's *Orlando*. This can be surprising the first time you inspect your vector since it obviously does not connect multi-line sentences. More on that later.
 
 ##### Remove periods in proper acronyms and abbreviations
 
@@ -40,7 +41,7 @@ Here is my regex for getting rid of an "in-sentence" acronym in *To The Lighthou
 
 **```light <- gsub('(?<=[A-Z])(\\.)(?=[A-Z]|\\.|\\s)', '', perl=TRUE, light)```**
 
-Some guidance: **`gsub()`** is a function to look through a given text. **`light`** is just a big container for every line contained in *To The Lighthouse*. The first argument is the regular expression I'm hunting for. The second argument is what I'm replacing with -- nothing, in this case, since I want to delete those pesky periods. The **`perl=TRUE`** argument enforces more succinct guidlines in your Regex syntax. It makes **`R`** do its job better, basically. **`light`**, again, is just the book I'm dealing with at that moment.
+Some guidance: **`gsub()`** is a function to look through a given text. **`light`** is just a big container for every line contained in *To The Lighthouse*. The first argument is the regular expression I'm hunting for. The second argument is what I'm replacing with -- nothing, in this case, since I want to delete those pesky periods. The **`perl=TRUE`** argument enforces more succinct guidelines in your Regex syntax. It makes **`R`** do its job better, basically. **`light`**, again, is just the book I'm dealing with at that moment.
 
 #### Remove chapter headings and numbers
 
@@ -88,7 +89,7 @@ Lowercase everything -- pretty standard.
 
 **```volc.temp <-tolower(volc.temp)```**
 
-This presents the only tricky part. The next line divides up your temp vector on **`\\w`**, aka *word* boundaries. Which makes sense. However, I don't want to split up a word like "don't" into "don" & "t." That would be silly and kind of skew my word counts. There are a few solution. You could expand every contraction. But that would break the flow of a text; don't and do not sound quite different. Or, you can...hunt StackOverflow and find a proper Regex that does not split up contractions. Quite helpful! The one tricky thing you can run into here is the *encoding* of your apstrophes. 
+This presents the only tricky part. The next line divides up your temp vector on **`\\w`**, aka *word* boundaries. Which makes sense. However, I don't want to split up a word like "don't" into "don" & "t." That would be silly and kind of skew my word counts. There are a few solution. You could expand every contraction. But that would break the flow of a text; don't and do not sound quite different. Or, you can...hunt StackOverflow and find a proper Regex that does not split up contractions. Quite helpful! The one tricky thing you can run into here is the *encoding* of your apostrophes. 
 
 Believe it or not, unicode has two types of quotes -- what I call "curly" (’) and the standard, "iPhone" quote ('). If you tell **`R`** that your novel's contractions have curly quotes when it really uses iPhone quotes, you're going to have a miserable time debugging when you can't figure out why you're being stuck with "isn" & "t" in your data frame of words. 
 
@@ -108,7 +109,7 @@ Lastly, scrub blank characters.
 
 I use a package called [tokenizers](https://cran.r-project.org/web/packages/tokenizers/tokenizers.pdf) for this part. 
 
-It works pretty well, but only because of all the prelimary work I carry out in Step 1.
+It works pretty well, but only because of all the preliminary work I carry out in Step 1.
 
 The basic function call works by first collapsing your vector on new lines.
 
@@ -123,9 +124,9 @@ A defintion: In English, "tagged dialogue" looks like this.
 
 From *To The Lighthouse*: "A bit of a hypocrite?" Mr Bankes suggested
 
-In my view, it is improper to separate these into two distinct sentences. Part of this is because you can ask a question without explicitly tagging who the speaker is. So, it is of interest to me when an author decides to do that. Also, words like "said" or "asked" are frequently used in conjunction with dialogue. It is a mess to keep track of all the "he said" sentences if they are not attached to their antecedents. I haven't dug deep into where the prescriptivist school of grammar lies on this issue, so I could be out of my paygrade here. But, that's the assumption I'm running with my project. 
+In my view, it is improper to separate these into two distinct sentences. Part of this is because you can ask a question without explicitly tagging who the speaker is. So, it is of interest to me when an author decides to do that. Also, words like "said" or "asked" are frequently used in conjunction with dialog. It is a mess to keep track of all the "he said" sentences if they are not attached to their antecedents. I haven't dug deep into where the prescriptivist school of grammar lies on this issue, so I could be out of my paygrade here. But, that's the assumption I'm running with my project. 
 
-To reiterate, I think they should travel together because it will make my future work easier when I want to inspect what *particular* speaking verb dialogue is *tagged* with. It's better if everything is contained in one sentence. **`tokenizers`** doesn't agree here, though, as it splits sentences like this in two. It does the same with exclamatory remarks:
+To reiterate, I think they should travel together because it will make my future work easier when I want to inspect what *particular* speaking verb dialog is *tagged* with. It's better if everything is contained in one sentence. **`tokenizers`** doesn't agree here, though, as it splits sentences like this in two. It does the same with exclamatory remarks:
 
 From *Lolita*: “Lo!” cried Haze
 
@@ -170,7 +171,7 @@ transmute(para = gsub('CHAPTER [0-9]', '', perl=TRUE,paragraph))
 
 ### Step 3: Commit to Database.
 
-This step is a piece of cake. I use one giant **`SQLite`** table as my "data-lake" that contains all of the important units from my corpus. My four columns are: Title (of the book), Type (whether its a paragraph, sentence or word), ID (a unique identifier; a mashup of title, type and a generated number; serves as Primary Key), and Unit (the unit itself, like "dog" or "How are you?").
+This step is a piece of cake. I use one giant **`SQLite`** table as my "data-lake" that contains all of the important units from my corpus. My four columns are: Title (of the book), Type (whether its a paragraph, sentence or word), ID (a unique identifier; a mash-up of title, type and a generated number; serves as Primary Key), and Unit (the unit itself, like "dog" or "How are you?").
 
 I'm using a database so I don't have to keep loading various representations from a giant `.Rdata` file... Instead, query what you like from your database and dispense with it when you're done.  
 
@@ -197,7 +198,7 @@ dbDisconnect(con)
 
 That's the rub, folks. Every text has its own unique representation which brings with it particular advtantages and challenges. Tread lightly, and always check your sanity by outputting recent commands into your **`R`** terminal; you never know when you might have accidentally taken a wrong turn, and it's better to find out early than after you've committed to your database. 
 
-Comprehensive implementations for each of these steps can be found in the [repo](https://github.com/timschott/dmp) for this project. I'm making a file for each book. I've found it hard to make functions within one big file for this type of work; I reuse code sometimes, but often have to tweak it a lot, so it can get confusing scrolling vertically through a 1600 line file where most of the work loooks similar. 
+Comprehensive implementations for each of these steps can be found in the [repo](https://github.com/timschott/dmp) for this project. I'm making a file for each book. I've found it hard to make functions within one big file for this type of work; I reuse code sometimes, but often have to tweak it a lot, so it can get confusing scrolling vertically through a 1600 line file where most of the work looks similar. 
 
 I hope this post helps. My site's SEO isn't great but hopefully a fervent undergrad in the future, wading through the messy online regex resources, stumbles upon this guide.
 

@@ -3,6 +3,7 @@ title:  When I First Started to Notice Lyrical Everywhere
 date:   2018-07-30
 layout: post
 categories: reading-log
+description: The works I read during July 2018.
 ---
 
 ## *Markdown* But Not Out..

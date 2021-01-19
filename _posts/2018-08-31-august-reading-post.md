@@ -3,6 +3,7 @@ title:  A Mix of Theory and Fiction
 date:   2018-08-31
 layout: post
 categories: reading-log
+description: The works I read during August 2018.
 ---
 
 ## What's My Year Again?

@@ -3,6 +3,7 @@ title:  A Productive Summer
 date:   2018-06-29
 layout: post
 categories: reading-log
+description: The very first reading log for my thesis.
 ---
 
 ## No, Really!

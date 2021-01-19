@@ -3,6 +3,7 @@ title:  Building a Database with Python and SQLite
 date:   2018-10-31
 layout: post
 categories: programming
+description: How I built the database for my thesis.
 ---
 
 ## A Database Is Born

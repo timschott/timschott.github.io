@@ -3,6 +3,7 @@ title:  Jackson, Nietzsche... And That's Really It
 date:   2018-10-31
 layout: post
 categories: reading-log
+description: The works I read in October 2019 to support my DMP.
 ---
 
 ## Tim Hits The Books

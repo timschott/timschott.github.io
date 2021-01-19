@@ -3,6 +3,7 @@ title:  Conference Time!
 date:   2019-11-11
 layout: post
 categories: updates
+description: Discussing my experience presenting my thesis at a conference.
 ---
 
 ## Very Windy Can Confirm.
@@ -17,4 +18,4 @@ Here's me with the other "NLP" folks.
 
 Professor Juola is a mainstay in the field of authorship attribution. Professor Clawson's presentation had terrific visuals and him and I ended up chatting for quite a while afterwards - his scholarship is very earnest and thorough. Lastly, Clarisse's work was fascinating and proved that the foundational techniques of the field carry plenty of weight if you have the right workflow established. 
 
-I had a great time discussing the field with other like-minded folks. I was pretty much the only person there that had a normal job which was always a funny topic of conversation to broach. It was a thrilling weekend. Chicago, while quite cold, offered plenty of great food and drink. Plus their art museum great showed a great restrospective about Andy Warhol. I also found the proximity to the massive, frigid waters of Lake Michigain to be quite charming; sort of a blue prairire, unsullied by the sprawling metropolis the broaches its shores. 
+I had a great time discussing the field with other like-minded folks. I was pretty much the only person there that had a normal job which was always a funny topic of conversation to broach. It was a thrilling weekend. Chicago, while quite cold, offered plenty of great food and drink. Plus their art museum great showed a great retrospective about Andy Warhol. I also found the proximity to the massive, frigid waters of Lake Michigain to be quite charming; sort of a blue prairie, unsullied by the sprawling metropolis the broaches its shores. 

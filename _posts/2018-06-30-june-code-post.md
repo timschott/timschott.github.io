@@ -3,6 +3,7 @@ title:  How My (Erstwhile) Blog Came to Be
 date:   2018-06-30
 layout: post
 categories: programming
+description: Describing how I built my blog and what I did as an intern.
 ---
 
 ## Forays into Jekyll.

@@ -3,6 +3,7 @@ title:  "From Dabble to Deep Dive: Don DeLillo, Pt. 1"
 date:   2020-12-24
 layout: post
 categories: reading-log
+description: The first entry in my series about Don DeLillo.
 ---
 
 > Stories can be a consolation – at least in theory. 

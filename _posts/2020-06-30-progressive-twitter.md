@@ -3,6 +3,7 @@ title:  Political Tweet Aggregation
 date:   2020-06-30
 layout: post
 categories: programming
+description: Analyzing tweets from 2020 Democratic Primary contests.
 ---
 
 ## Are Progressives Winning the Twitter Battle?

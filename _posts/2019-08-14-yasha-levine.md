@@ -3,11 +3,12 @@ title:  Yasha Levine - Surveillance Valley
 date:   2019-08-14
 layout: post
 categories: reading-log
+description: Making sense of Yasha Levin's excellent "Surveillance Valley."
 ---
 
 ## The Secret Military History of the Internet
 
-Early chapters discuss the roots of internet in a new light — the military’s involvement in pushing for a more innovative system of tracking and waging war against the nations enemy du jour (Vietnam, mostly). Levine’s insights are fascinating. He has a great handle on the connection between technology and power, which is rarely discussed (ie, Jeff Bezos is “rich”, but that’s not what makes him so uniquely dangerous or powerful). 
+Early chapters discuss the roots of internet in a new light — the military’s involvement in pushing for a more innovative system of tracking and waging war against the nations enemy du jour (Vietnam, mostly). Levine’s insights are fascinating. He has a great handle on the connection between technology and power, which is rarely discussed (i.e., Jeff Bezos is “rich”, but that’s not what makes him so uniquely dangerous or powerful). 
 
 One portion of the text that jumped out at me was the use of major research university’s as outposts for the military hive mind to outsource production and development of the advanced computer system’s they needed to make their high-tech dreams possible. I’m sure that engineering folks —- especially in the 60s, when this was truly breakthrough, movie-like stuff —- were eager to pitch in, because it gave them a chance to stop writing silly papers about what could be and actually impact the future. Even the most pacifistic researcher would be hard-pressed to turn down an enormous stipend to finally develop the lofty projects they'd envisioned themselves working on for years. The defense-network responsible for their money truly had a captive audience. 
 

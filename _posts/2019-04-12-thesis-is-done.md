@@ -3,6 +3,7 @@ title:  "Thesis is Done!"
 date:   2019-04-12
 layout: post
 categories: writing
+description: Triumphantly announcing my thesis is complete.
 ---
 
 ## MY THESIS IS DONE!
