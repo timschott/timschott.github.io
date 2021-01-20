@@ -4,6 +4,7 @@ title: Reading DT Leaves - A Digital Analysis of "Lyrical" Novels.
 permalink: /projects/dtleaves
 date: 2019-04-14
 plaindate: Summer 2018 - April 2019
+description: UVA Distinguished Majors Project.
 ---
 
 My honors thesis for the University of Virginia Distinguished Majors program consisted of a digital study of "lyrical" novels in order to better define this heretofore amorphous, nebulous term. I was graciously advised by [Brad Pasanek](https://english.as.virginia.edu/people/profile/bmp7e) and [Paul Cantor](https://english.as.virginia.edu/people/profile/pac2j). 

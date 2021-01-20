@@ -4,6 +4,7 @@ title: WashingtonBezos
 permalink: /projects/wapo
 date: 2020-04-03
 plaindate: Spring 2020
+description: I built twitter bot that tracks mentions of Jeff Bezos in Washington Post articles.
 ---
 My bot tweets whenever *The Washington Post* uses a sentence such as "(Jeff Bezos owns the Washington Post)" in a news story. 
 

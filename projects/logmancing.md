@@ -4,6 +4,7 @@ title: logomancing
 permalink: /projects/logomancing
 date: 2020-01-15
 plaindate: Winter 2020
+description: Logomancing is a website that tracks unique words.
 ---
 
 <img src="/images/logomancing.png" alt="website screenshot" display:block>
