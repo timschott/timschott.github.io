@@ -50,10 +50,4 @@ Babette embroils herself in a tryst with a pharmaceutical salesman who pushes he
 
 Overall, reading *White Noise* left me disoriented. It's a challenging read, certainly, both in form and subject matter. At multiple points, I felt as if I had been teleported back to my "Freud and Literature" course, learning about the concept of the "death drive". DeLillo is eminently perspicacious. Almost to a fault. But he imbues a remarkable liquidity into his paragraphs. The descriptions of the vagaries of everyday life the shopping cart, the syndicated television program, the college curriculum -- drop the reader into an environment rife with stagnation, futility and charmlessness. A melancholy undergirds the entire work; life lacks coherence or direction. 
 
-*White Noise*, then, is not why I'm enamored with DeLillo's ideas, characters and prose. I moved onto other books (for example all of April and May, it was my GRE math prep book). It wouldn't be until later in the year I fully immersed myself in DeLillo's writing
-
-Now, Thomas Pynchon is often brought up in any conversation about DeLillo. Even a cursory survey of the landscape -- such as examining syllabi, secondary criticism, etc. 
-
-
-
-
+*White Noise*, then, is not why I'm enamored with DeLillo's ideas, characters and prose. I moved onto other books (for example all of April and May, it was my GRE math prep book). It wouldn't be until later in the year I fully immersed myself in DeLillo's writing after I read *Americana*.

@@ -1,5 +1,5 @@
 ---
-title:  Miklov. et Al - Distributed Representation Representations of Words and phrases and their compositionality.
+title:  Miklov. et al - Distributed Representation Representations of Words and phrases and their compositionality.
 date:   2020-02-11
 layout: post
 categories: reading-log
