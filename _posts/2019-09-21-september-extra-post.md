@@ -1,6 +1,6 @@
 ---
 title:  "MaRkDown: Displaying R Code on Github Pages posts."
-date:   2018-09-21
+date:   2019-09-21
 layout: post
 category: programming
 description: Integrating Github pages with RStudio.
