@@ -38,7 +38,7 @@ This phenomenon deludes us into subscribing to a set of facts and assumptions th
 
 Let's look at some of the applications of these concepts, starting with Baudrillard's views on how information spreads and what makes something true.
 
-### Virality and Meaning
+#### Virality and Meaning
 
 The first aspect of this work that stands out to me sees Baudrillard voicing an interesting proposal about how we understand and discuss events and historical occurrences. For instance, in the aftermath to a public tragedy such as a terrorist strike, Baudrillard contends that the totality of explanations of its origins (Organization A states it was Group X, Organization B states it was Group Y) are "simultaneously true." How can this be? 
 
