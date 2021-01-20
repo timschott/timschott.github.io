@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
+description: Projects and endeavors picked up after I graduated from UVA.
 ---
 
 <ul class="listing">
