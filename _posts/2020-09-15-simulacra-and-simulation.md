@@ -8,7 +8,7 @@ description: Discussing Jean Baudrillard's landmark treatise on semiotics and in
 
 ### Overview
 
-Simulcra and Simulation is a provocative examination of the state of reality (or lack thereof) with respect to the modern political economy and media atmosphere. It’s a heady, challenging treatise that integrates examples from popular culture (film, novels, current events) into a sweeping investigation of semiotics, cybernetics, and information theory. I’ll touch on some key terms and then move towards my thoughts on a few of Baudrillard's conjectures. 
+*Simulcra and Simulation* is a provocative examination of the state of reality (or lack thereof) with respect to the modern political economy and media atmosphere. It’s a heady, challenging treatise that integrates examples from popular culture (film, novels, current events) into a sweeping investigation of semiotics, cybernetics, and information theory. I’ll touch on some key terms and then move towards my thoughts on a few of Baudrillard's conjectures. 
 
 #### "Simulacram"
 
@@ -32,17 +32,15 @@ From there, Baudrillard situates Borges’ tale in our current epoch. This parag
 >slowly rot across the extent of the map. It is the real, and not the map, whose vestiges persist here 
 >and there in the deserts that are no longer those of the Empire, but ours. The desert of the real itself.
 
-> &mdash; <cite>Baudrillard</cite>
-
 This phenomenon deludes us into subscribing to a set of facts and assumptions that doesn’t have a bearing on any real objects. We're witness to a landscape that produce itself with no original reference point — no “origin or reality” (3). We are bereft of representation and reality; in their stead, an alterior construction.
 
-Let's look at some of the applications of these concepts, starting with Baudrillard's views on how information spreads and what makes something true.
+Let's look at some of the applications of these concepts, starting with Baudrillard's views on how information spreads and what inheres truth.
 
 #### Virality and Meaning
 
 The first aspect of this work that stands out to me sees Baudrillard voicing an interesting proposal about how we understand and discuss events and historical occurrences. For instance, in the aftermath to a public tragedy such as a terrorist strike, Baudrillard contends that the totality of explanations of its origins (Organization A states it was Group X, Organization B states it was Group Y) are "simultaneously true." How can this be? 
 
-Well, to start, he writes, "a single fact can be engendered by all the models at once" (13). And, I buy that; when the basics of a situation (the who/where/when) are made public, respective groups apply their preconceived biases and explications to them. In the case of a high-stakes robbery, for instance, identical tweets from the accused will invariably elicit two different responses to two different groups of people. Furthermore, the "simulation" inherent to this sort of phenomenon is reified merely through that fact that its disseminated. As Baudrillard puts its: "...even the most contradictory [explanations]- all true, in the sense that their truth *is to be exchanged*" (13, emphasis mine).
+Well, to start, he writes, "a single fact can be engendered by all the models at once" (13). And, I buy that; when the basics of a situation (the who/where/when) are made public, respective groups apply their preconceived biases and explications to them. In the case of a high-stakes robbery, for instance, identical tweets from the accused will invariably elicit two different responses to two different groups of people. Furthermore, the "simulation" undergirding this phenomenon is reified merely through that fact that its disseminated. As Baudrillard puts its: "...even the most contradictory [explanations]- all true, in the sense that their truth *is to be exchanged*" (13, emphasis mine).
 
 This sequence is especially relevant to our current media ecosystem. Our political climate is an amalgamation of "facts" (alternative, or not) reified insofar as they are (rapidly) diffused. 
 
