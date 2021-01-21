@@ -44,4 +44,14 @@ Well, to start, he writes, "a single fact can be engendered by all the models at
 
 This sequence is especially relevant to our current media ecosystem. Our political climate is an amalgamation of "facts" (alternative, or not) reified insofar as they are (rapidly) diffused. 
 
-A platform like Twitter, then, is a multiverse container, possessing an infinite number of ecosystems each bespoke with their own logic, rules, heroes and enemies. It's precisely as Talking Heads reminds us: ["Facts just twist the truth around."](https://www.youtube.com/watch?v=ICv27M744Bs&ab_channel=akischerokee).
+A platform like Twitter, then, red  is a multiverse container, possessing an infinite number of ecosystems each bespoke with their own logic, rules, heroes and enemies. It's precisely as Talking Heads reminds us: ["Facts just twist the truth around."](https://www.youtube.com/watch?v=ICv27M744Bs&ab_channel=akischerokee).
+
+#### Entropy and Information
+
+The next idea from this piece I want to examine entails the deluge of information produced by a networked, connected society. Baudrillard entertains the following possibilities regarding information and meaning:
+1. Information produces meaning (thus, more is better).
+2. Information is purely functional (meaning is divorced from its operational significance).
+3. Information and meaning are correlated: "to the extent that information is directly destructive of meaning and signification. (55).
+
+Baudrillard endorses that final point in spite of its prima facie liabilities. To start, he analogizes information to productive forces in the economy. A society's standard of living is detached from its productive capacity. Likewise, information manufacturing, in both a personal setting as well as through mass-media conglomerates, "devours" meaning. Consider the circuitous nondirectives that form the backbone of most of our conversations. We're nothing but stop words. This sort of "business-speak" is endemic to modern office settings. And it is remarkable how the destruction of meaning through information parallels the hallowing out of concrete production in our economy. Baudrillard was certainly onto something here.
+
