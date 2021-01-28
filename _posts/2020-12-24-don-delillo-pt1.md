@@ -56,14 +56,12 @@ Overall, reading *White Noise* left me disoriented. It's a challenging read, cer
 
 ## Americana
 
-I spent the summer adjusting to life during lockdown. I picked up science fiction stories by Philip K. Dick and Ray Bradbury. I also enjoyed a mini-survey of Thomas Pynchon (perusing *Inherent Vice* and *The Crying of Lot 49*). I devoured *Lot 49*, as it seemed picture-perfect for our conspiracy-laden historical moment. Dovetailing this, podcast episodes featuring [Michael Judge](https://twitter.com/corpseinorbit/) were instrumental in cohering many of the threads that appear in Pynchon's fiction. I was excited to accompany a proper reading of Pynchon's masterwork, *Gravity's Rainbow*, with Judge's [exploration on his own podcast](https://shoutengine.com/DeathIsJustAroundtheCorner/76-our-history-is-an-aggregate-of-last-moments-pt--57593), "Death is Just Around The Corner." Prior to starting, though, a tweet from Judge sent me back down a DeLillo rabbit-hole.
+I spent the summer adjusting to life during lockdown. I picked up science fiction stories by Philip K. Dick and Ray Bradbury. I also enjoyed a mini-survey of Thomas Pynchon (perusing *Inherent Vice* and *The Crying of Lot 49*). I devoured *Lot 49*, as it seemed picture-perfect for our conspiracy-laden historical moment. Dovetailing this, podcast episodes featuring [Michael Judge](https://twitter.com/corpseinorbit/) were instrumental in cohering many of the threads that appear in Pynchon's fiction. I was excited to accompany a proper reading of Pynchon's masterwork, *Gravity's Rainbow*, with Judge's [exploration on his own podcast](https://shoutengine.com/DeathIsJustAroundtheCorner/76-our-history-is-an-aggregate-of-last-moments-pt--57593), "Death is Just Around The Corner." Prior to starting, though, a tweet from Judge sent me back down a DeLillo rabbit-hole:
 
-https://twitter.com/corpseinorbit/status/1294405987265282055?s=20
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Death Is Just Around the Corner&quot; is the name of a late-night radio show hosted by a ranting insane autodidact freak in Don DeLillo&#39;s first novel, AMERICANA. The parallels were too obvious to pass up</p>&mdash; ★ (@corpseinorbit) <a href="https://twitter.com/corpseinorbit/status/1294405987265282055?ref_src=twsrc%5Etfw">August 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-After a summer spent reading works by other stalwarts like Philip K. Dick, Pynchon and Joseph Conrad
+This anecdote amused me, and spurred me to take a second pass at DeLillo's fiction. I set *Gravity's Rainbow* aside, ordered *Americana*, and was on my way.
 
-*Americana*, published in 1971, is Don DeLillo's first book. This novel generated my enthusiasm for DeLillo's writing.
-
- presents its audience with a (somewhat) played out premise: chic business executive David Bell is bored of pushing pencils and robbing elbows in the Manhattan advertising sphere and decides to pursue his passions. DeLillo's foregrounding, here, turns out to be a brilliant set-piece. 
+Published in 1971, *Americana* is Don DeLillo's first novel. This novel presents its audience with a (somewhat) played out premise: chic business executive David Bell is bored of pushing pencils and robbing elbows in the Manhattan advertising sphere and decides to pursue his passions. DeLillo's foregrounding, here, turns out to be a brilliant set-piece. 
 
 "One must become a book before one can know what is inside it." 
