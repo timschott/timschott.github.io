@@ -58,8 +58,31 @@ I spent the summer adjusting to life during lockdown. I picked up science fictio
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">&quot;Death Is Just Around the Corner&quot; is the name of a late-night radio show hosted by a ranting insane autodidact freak in Don DeLillo&#39;s first novel, AMERICANA. The parallels were too obvious to pass up</p>&mdash; ★ (@corpseinorbit) <a href="https://twitter.com/corpseinorbit/status/1294405987265282055?ref_src=twsrc%5Etfw">August 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-This anecdote amused me, and spurred me to take a second pass at DeLillo's fiction. I set *Gravity's Rainbow* aside, ordered *Americana*, and was on my way. Published in 1971, *Americana* presents its audience with a (somewhat) played out premise: chic business executive David Bell, weary of pencil-pushing and elbow-rubbing in Manhattan's gauche advertising world, goes AWOL to pursue his passions. You can think of David as a Bohemian Don Draper: same vanity and inattention to personal relationships and ethical norms, but imbued with a greater introspective capacity as well as a definitive reverence to the arts. An early self-assessment -- "I was blue-eyed David Bell. Obviously my life depended on this fact" (11) -- cements expectations for the reader that this rosier-than-thou conception will necessarily be complicated.
+This anecdote amused me, and spurred me to take a second pass at DeLillo's fiction. I set *Gravity's Rainbow* aside, ordered *Americana*, and was on my way. 
 
-DeLillo uses this fairly ordinary premise as a set-piece of sorts.*Americana*'s familiar foreground allows DeLillo to meditate on complex topics like art, language and sexuality. Morevoer, from a stylistic perspective, DeLillo cements key ideolectical habits.
+Published in 1971, *Americana* presents its audience with a (somewhat) played out premise: chic business executive David Bell, disllusioned with pencil-pushing and elbow-rubbing in Manhattan's gauche advertising world, goes AWOL to pursue his passions. You can think of David as a Bohemian Don Draper: same vanity and inattention to personal relationships and ethical norms, but imbued with a greater introspective capacity as well as a definitive reverence to the arts. An early self-assessment -- "I was blue-eyed David Bell. Obviously my life depended on this fact" (11) -- cements expectations for the reader that this rosier-than-thou conception will necessarily be complicated.
 
-"One must become a book before one can know what is inside it." 
+DeLillo uses this fairly ordinary premise as a set-piece of sorts.*Americana*'s familiar foreground allows DeLillo to meditate on complex topics like language and sexuality. 
+
+In one aside, Bell notes that he's grown weary with merely making love to his wife, leaning on seduction to exact sexual pleasure. Benign as that may seem, his source of choice for that seduction is, interestingly enough, cinema. Much like the characters in *White Noise*, the world of *Americana* features people trapped in relationships that are mediated through external forms of media. 
+
+And, New York City, the epicenter of neoliberal financialization, Bell experiences the mutations of language unfolding within and without the confines of his bespoke Madison Avenue office. His colleagues convey ideas through an increasingly complex series of symbols. They use machines that may or may create value. Executives produce less than their secretaries. Innovation wasn't predicated on generating new ideas but rather upon squeezing all that was left of the old ones. As Bell puts it, "Words and meanings were at odds. Words did not say what was being said nor even its reverse" (36). 
+
+Importantly, from a stylistic perspective, DeLillo develops key aspects of his ideolect. Chief among these is what I refer to as the "block-thought." DeLillo begins a paragraph with an easy-to-digest action; a character prepares their dinner or turns on a movie. From there, though, unrelated thoughts populate the paragraph, only to be capped off with a final sentence that refers back to the first sentence, thus "closing" the block so to speak. It's almost mathematical; you have to balance both your ledger when you do your algebra.
+
+> I went into the bathroom, took off my shirt and began shaving my chest with an electric razor.
+> It was a ritual cleansing of the body, a prelude to the sacred journey. The rain had stopped.
+> I was happy. Through the bathroom window, as I shaved, I could see most of the town of Millsgate,
+> white houses massed in a jest of innocence, fresh sunlight on the steeple. A girl went along the
+> street skipping rope, head back, eyes seeking the break in the clouds; two white sloops, heeling
+> severely, played at the mouth of the bay. I tried to imagine, to remember really, what it was
+> like to live without the terminal fears of the city, for I had loved a town once without 
+> knowing it, and the love would note release me. There was a vein of murder snaking across the
+> continent beneath highways, smokestacks, oilrigs and gasworks, a casual savagery fed by the mute
+> cities, and I wondered what impossible distance must be traveled to get from there to here, 
+> what language must be crossed, how many levels of being. My hair went willingly in the fish-mouth
+> of the razor. (124)
+
+The encapsulated-meandering in this paragraph manifests in almost all of DeLillo's works. (As an aside, you can't read a paragraph like this without thinking of the opening sequence of *Ulysses*, a massive influence for DeLillo's canon.) 
+
+I'm excited to study, on a macro and micro level, this and other aspects of DeLillo's style in Part 3 of this series. Prior to that, I'll devote time in the next post to connections to DeLillo's works in other forms of media.
