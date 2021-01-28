@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-These posts are informal updates regarding current work, reading, projects, etc. It's currently diversifying from its humble beginnings as a landing pad to record progress on my thesis.
+These posts are informal updates regarding current work, reading, projects, etc. It's diversifying from its origin as a landing pad to record progress on my thesis.
 
 <ul class="listing">
 {% for post in site.posts %}
