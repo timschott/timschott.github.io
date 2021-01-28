@@ -5,3 +5,7 @@ layout: post
 categories: reading-log
 description: The second entry in my series about Don DeLillo.
 ---
+
+## Pt 2.
+
+[ to come ]
