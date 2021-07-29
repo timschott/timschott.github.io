@@ -4,5 +4,5 @@ title: CV
 permalink: /cv/
 ---
 
-<embed src="https://timschott.com/documents/Timothy_Schott_Resume_.pdf" type="application/pdf"
+<embed src="https://timschott.com/documents/TimothySchottResume.pdf" type="application/pdf"
 style="min-height:100vh;width:100%"/>
