@@ -8,4 +8,7 @@ description: The fourth entry in my series about Don DeLillo.
 
 ## Pt 4.
 
-[ to come ]
+- Text Cleaning
+- Arch overview
+- What works, what doesn't
+- Next steps

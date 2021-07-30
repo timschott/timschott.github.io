@@ -8,4 +8,7 @@ description: The third entry in my series about Don DeLillo.
 
 ## Pt 3.
 
-[ to come ]
+- Lists
+- short, long, short
+- Repetition of a particular sentence (cf woolf)
+	-"add the numbers and you get thirteen"
