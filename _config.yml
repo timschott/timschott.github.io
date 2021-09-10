@@ -1,11 +1,11 @@
 # Site settings
 title: Tim Schott
-email: timcschott@gmail.com
+email: timschott@berkeley.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Software Engineer, NLP-enthusiast and Beach Boys fan.
+  NLP-enthusiast and Beach Boys fan.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://timschott.com" # the base hostname & protocol for your site
-twitter_username: WashingtonBezos
+twitter_username: TimothySchott
 linkedin_username: timothy-schott
 github_username: timschott
 
