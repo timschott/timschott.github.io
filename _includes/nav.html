@@ -3,7 +3,7 @@
     {% for class in site.data.menu %}
     {% if class.special != null %}
     <li><a href="{{ class.href }}.html" class="page-link">{{ class.title }}</a>
-    {% else %}
+    {% endif %}
     {% if class.subcategories != null %}
     <li><a href="{{ class.href }}" class="page-link">{{ class.title }}</a>
     <ul class="sub-menu">

@@ -1,5 +1,6 @@
 - title: "Resume"
-  href: "/resume/"
+  href: "/resume"
+  special: true
 
 - title: "Blog"
   href: "/blog/"
