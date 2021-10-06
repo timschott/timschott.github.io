@@ -13,7 +13,7 @@
           {% endfor %}
        </ul>
        {% endif %}
-       {% if class.special == null %}
+       {% if class.special == null and class.subcategories == null %}
         <li><a href="{{ class.href }}" class="page-link">{{ class.title }}</a>
        {% endif %}
     </li>
