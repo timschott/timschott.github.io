@@ -12,6 +12,7 @@
           <li><a href="{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
           {% endfor %}
        </ul>
+       {% endif %}
        {% if class.special == null %}
         <li><a href="{{ class.href }}" class="page-link">{{ class.title }}</a>
        {% endif %}
