@@ -1,8 +1,12 @@
 ---
-layout: page
-title: CV
-permalink: /cv/
+title: Resume
+permalink: /resume/
 ---
-
-<embed src="https://timschott.com/documents/TimothySchottResume.pdf" type="application/pdf"
-style="min-height:100vh;width:100%"/>
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="refresh" content="0;url=https://timschott.com/documents/TimothySchottResume.pdf" />
+        <link rel="canonical" href="https://timschott.com/documents/TimothySchottResume.pdf" />
+    </head>
+</html>
