@@ -8,6 +8,8 @@
 - title: "Projects"
   href: "/projects/"
   subcategories:
+    - subtitle: "details"
+      subhref: "/projects/details"
     - subtitle: "sBOTus"
       subhref: "/projects/sbotus"
     - subtitle: "Washington Bezos"
