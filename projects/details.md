@@ -7,9 +7,9 @@ plaindate: Fall 2021
 description: Applied Natural Language Processing (INFO 256) project
 ---
 
-My semester project for David Bamman's Applied Natural Language Processing course explores details in narrative fiction.
+My semester project for David Bamman's Applied Natural Language Processing ([INFO 256](https://people.ischool.berkeley.edu/~dbamman/info256.html)) course explores details in narrative fiction.
 
-Check out my proposal here:
+Repo and initial findings coming soon; check out my below!
 
 <embed src="https://timschott.com/documents/details.pdf" type="application/pdf"
 style="min-height:100vh;width:100%"/>
