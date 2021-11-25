@@ -1,6 +1,6 @@
 ---
 layout: page
-title: sBOTus
+title: Supreme Court bot
 permalink: /projects/sbotus
 date: 2020-08-05
 plaindate: Summer 2020

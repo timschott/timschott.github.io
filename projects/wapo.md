@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WashingtonBezos
+title: @WashingtonBezos
 permalink: /projects/wapo
 date: 2020-04-03
 plaindate: Spring 2020

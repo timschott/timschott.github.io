@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reading DT Leaves - A Digital Analysis of "Lyrical" Novels.
+title: A Digital Analysis of "Lyrical" Novels.
 permalink: /projects/dtleaves
 date: 2019-04-14
 plaindate: Summer 2018 - April 2019
