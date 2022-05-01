@@ -3,15 +3,19 @@ layout: page
 title: Details in the Novel
 permalink: /projects/details
 date: 2021-09-14
-plaindate: Fall 2021
+plaindate: Fall 2021 - Fall 2022
 description: Applied Natural Language Processing (INFO 256) project
 ---
 
-My semester project for David Bamman's Applied Natural Language Processing ([INFO 256](https://people.ischool.berkeley.edu/~dbamman/info256.html)) course explores details in narrative fiction.
+My semester project for David Bamman's Fall 2021 Applied Natural Language Processing ([INFO 256](https://people.ischool.berkeley.edu/~dbamman/info256.html)) course explores details in narrative fiction. I will continue to expand this project alongside Professor Bamman next semester with an independent study, with the ultimate goal of submitting my work to journals. 
+
+I was invited to present my work at the <a href ="https://digitalhumanities.berkeley.edu/dh-fair-2022">2022 UC Berkeley Digital Humanities fair</a>. Here is my poster!
+
+<img id="dh-fair-poster" src="/images/tim-schott-dh-fair-poster.jpg" alt="dh-fair poster">
 
 Code, data and visualizations can be found on my <a href = "https://github.com/timschott/details">github</a>.
 
-Read through my report:
+You can read through my report here:
 
-<embed src="https://timschott.com/documents/details-midterm.pdf" type="application/pdf"
+<embed src="https://timschott.com/documents/details-in-the-novel.pdf" type="application/pdf"
 style="min-height:100vh;width:100%"/>
