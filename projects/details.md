@@ -11,7 +11,7 @@ My semester project for David Bamman's Fall 2021 Applied Natural Language Proces
 
 I was invited to present my work at the <a href ="https://digitalhumanities.berkeley.edu/dh-fair-2022">2022 UC Berkeley Digital Humanities fair</a>. Here is my poster!
 
-<img id="dh-fair-poster" src="/images/tim-schott-dh-fair-poster.jpg" alt="dh-fair poster">
+<img id="dh-fair-poster" src="/images/tim-schott-dh-fair-poster.png" alt="dh-fair poster">
 
 Code, data and visualizations can be found on my <a href = "https://github.com/timschott/details">github</a>.
 
