@@ -2,9 +2,6 @@
   href: "/resume"
   special: true
 
-- title: "Blog"
-  href: "/blog/"
-
 - title: "Projects"
   href: "/projects/"
   subcategories:
