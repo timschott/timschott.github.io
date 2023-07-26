@@ -13,7 +13,7 @@ description: Berkeley MIMS Capstone
 
 Can foundation language models be used as multilingual knowledge bases? We evaluate the capacity for foundation models to retrieve encyclopedic knowledge across a wide range of topics in a multilingual setting. 
 
-To support this effort, we 1) produce a new, multilingual dataset containing 303k factual associations in 20 different languages 2) formulate a counterfactual knowledge assessment, “Polyglot or Not” 3) benchmark 5 foundation models in a multilingual setting and a diverse set of 18 models in an English-only setting. 
+To support this effort, we 1) produce a new, multilingual dataset containing 303k factual associations in 20 different languages 2) formulate a counterfactual knowledge assessment, “Polyglot or Not” 3) benchmark 5 foundation models in a multilingual setting and a diverse set of nearly 2 dozen models in an English-only setting.
 
 Massive accuracy differences manifest among open-source foundation models of interest, with Meta’s LLaMA topping both the multilingual and English-only assessments. A quantitative and qualitative error analysis of this top model reveals a significant dropoff in the model’s ability to retrieve facts in languages written in the Cyrillic script, as well as the effect of the density of language-specific Wikipedia articles on factual comprehension. 
 
