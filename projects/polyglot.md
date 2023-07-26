@@ -7,9 +7,9 @@ plaindate: Spring 2023
 description: Berkeley MIMS Capstone
 ---
 
-* Paper("https://arxiv.org/abs/2305.13675">)
-* Data(https://huggingface.co/datasets/Polyglot-or-Not/Fact-Completion)
-* Code(https://github.com/daniel-furman/polyglot-or-not)
+* [Paper]("https://arxiv.org/abs/2305.13675">)
+* [Data](https://huggingface.co/datasets/Polyglot-or-Not/Fact-Completion)
+* [Code](https://github.com/daniel-furman/polyglot-or-not)
 
 Can foundation language models be used as multilingual knowledge bases? We evaluate the capacity for foundation models to retrieve encyclopedic knowledge across a wide range of topics in a multilingual setting. 
 
