@@ -7,7 +7,7 @@ plaindate: Spring 2023
 description: Berkeley MIMS Capstone
 ---
 
-* [Paper]("https://arxiv.org/abs/2305.13675">)
+* [Paper](https://arxiv.org/abs/2305.13675)
 * [Data](https://huggingface.co/datasets/Polyglot-or-Not/Fact-Completion)
 * [Code](https://github.com/daniel-furman/polyglot-or-not)
 
