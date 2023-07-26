@@ -5,6 +5,8 @@
 - title: "Projects"
   href: "/projects/"
   subcategories:
+    - subtitle: "Polyglot or Not"
+      subhref: "projects/polyglot"
     - subtitle: "Details in the Novel"
       subhref: "/projects/details"
     - subtitle: "Supreme Court bot"
