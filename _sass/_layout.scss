@@ -261,3 +261,17 @@ ul.listing li.listing-item a {
 	font-family: 'Titillium Web', sans-serif;
 }
 
+.nav-row {
+  margin-top: 1.5rem;
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.nav-row a {
+  color: #666;
+  text-decoration: none;
+}
+
+.nav-row a:hover {
+  text-decoration: underline;
+}
